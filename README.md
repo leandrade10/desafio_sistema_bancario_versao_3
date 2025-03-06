@@ -1,7 +1,7 @@
 Desafio Sistema Bancario Versão 3
 
 Este desafio faz parte da atividade do Bootcamp - Suzano - Python Developer que estou realizando na plataforma da DIO (Digital Innovation One) , em parceria com a empresa SUZANO .
-Este projeto é uma implementação de um sistema bancário simples utilizando Programação Orientada a Objetos (POO) em Python. O sistema permite a criação de clientes, contas bancárias, e a realização de operações básicas como depósito, saque e consulta de extrato.
+Este projeto é uma implementação de um sistema bancário simples utilizando Programação Orientada a Objetos em Python. O sistema permite a criação de clientes, contas bancárias, e a realização de operações básicas como depósito, saque e consulta de extrato.
 
 Objetivo Geral
 O objetivo principal deste projeto é modelar um sistema bancário utilizando conceitos, como classes, herança, encapsulamento e métodos abstratos. O sistema armazena os dados de clientes e contas bancárias em objetos, ao invés de dicionários, seguindo um modelo de classes UML.
